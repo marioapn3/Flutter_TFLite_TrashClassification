@@ -1,6 +1,6 @@
 # ml_apps
 
-A new Flutter project.
+Flutter TFLite Classfication Organic and Recycleable Trash
 
 ## Getting Started
 
